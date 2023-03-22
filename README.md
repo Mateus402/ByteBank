@@ -3,7 +3,8 @@
 ### Conceitos aplicados: 📕
 
 *C# orientado objeto*
-- - Herança
-- - Polimorfismo
-- - Abstração
+- Herança
+- Polimorfismo
+- Abstração
+- Encapsulamento 
 Entre outros
