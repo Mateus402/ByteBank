@@ -1,6 +1,6 @@
-## Projeto criado com objetivo de colocar em prática os aprendizados do curso de C#
+## Projeto criado com objetivo de colocar em prática os aprendizados do curso de C# 
 
-### Conceitos aplicados:
+### Conceitos aplicados: 📕
 
 *C# orientado objeto*
 - - Herança
