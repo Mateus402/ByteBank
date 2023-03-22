@@ -1,1 +1,8 @@
-# curso_OrientacaoObjetosC02R-aula02
+## Projeto criado com objetivo de colocar em prática os aprendizados do curso de C#
+
+### Conceitos aplicados:
+- C# orientado objeto
+- - Herança
+- - Polimorfismo
+- - Abstração
+Entre outros
